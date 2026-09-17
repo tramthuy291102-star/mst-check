@@ -1,0 +1,2 @@
+# mst-check
+check mst
